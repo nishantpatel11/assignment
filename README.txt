@@ -1,5 +1,5 @@
-This Assignment Folder contains Git information
-	git add : adding file into staging area
+This Assignment Folder contains Git information of branch css-assignment
+ 	git add : adding file into staging area
 	git commit -m : commiting file to git repository and -m is for message 
 	git push : push code into remote repository
 	git stash : revert all change which you did, move to last pull code.
