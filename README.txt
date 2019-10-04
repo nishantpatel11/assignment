@@ -11,3 +11,4 @@ This Assignment Folder contains Git information
 	git clone : copy respository from remote to local
 
 # Branch of html-assignments
+# Modified after master Branch modification
