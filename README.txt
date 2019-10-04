@@ -10,3 +10,4 @@ This Assignment Folder contains Git information
 	git init : initialize git repository in your local with  .git file
 	git clone : copy respository from remote to local
 
+# Modified in Master branch content
