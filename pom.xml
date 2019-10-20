@@ -4,4 +4,9 @@
   <artifactId>assignment</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>thread-executor</module>
+  	<module>thread-executor-db</module>
+  	<module>thread-executor-services</module>
+  </modules>
 </project>
